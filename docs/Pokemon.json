@@ -1,0 +1,254 @@
+
+{
+    "results": [
+      {
+        "national_number": "001",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/bulbasaur.png",
+          "large": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif"
+        },
+        "name": "Bulbasaur",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "total": 318,
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "sp_atk": 65,
+        "sp_def": 65,
+        "speed": 45
+      },
+      {
+        "national_number": "002",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/ivysaur.png",
+          "large": "https://img.pokemondb.net/artwork/ivysaur.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/ivysaur.gif"
+        },
+        "name": "Ivysaur",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "total": 405,
+        "hp": 60,
+        "attack": 62,
+        "defense": 63,
+        "sp_atk": 80,
+        "sp_def": 80,
+        "speed": 60
+      },
+      {
+        "national_number": "003",
+        "evolution": {
+          "name": "Mega Venusaur"
+        },
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/venusaur.png",
+          "large": "https://img.pokemondb.net/artwork/venusaur.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif"
+        },
+        "name": "Venusaur",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "total": 625,
+        "hp": 80,
+        "attack": 100,
+        "defense": 123,
+        "sp_atk": 122,
+        "sp_def": 120,
+        "speed": 80
+      },
+      {
+        "national_number": "003",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/venusaur.png",
+          "large": "https://img.pokemondb.net/artwork/venusaur.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif"
+        },
+        "name": "Venusaur",
+        "type": [
+          "Grass",
+          "Poison"
+        ],
+        "total": 525,
+        "hp": 80,
+        "attack": 82,
+        "defense": 83,
+        "sp_atk": 100,
+        "sp_def": 100,
+        "speed": 80
+      },
+      {
+        "national_number": "004",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charmander.png",
+          "large": "https://img.pokemondb.net/artwork/charmander.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif"
+        },
+        "name": "Charmander",
+        "type": [
+          "Fire"
+        ],
+        "total": 309,
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "sp_atk": 60,
+        "sp_def": 50,
+        "speed": 65
+      },
+      {
+        "national_number": "005",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/charmeleon.png",
+          "large": "https://img.pokemondb.net/artwork/charmeleon.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/charmeleon.gif"
+        },
+        "name": "Charmeleon",
+        "type": [
+          "Fire"
+        ],
+        "total": 405,
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "sp_atk": 80,
+        "sp_def": 65,
+        "speed": 80
+      },
+     
+      {
+        "national_number": "508",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/stoutland.png",
+          "large": "https://img.pokemondb.net/artwork/stoutland.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/stoutland.gif"
+        },
+        "name": "Stoutland",
+        "type": [
+          "Normal"
+        ],
+        "total": 500,
+        "hp": 85,
+        "attack": 110,
+        "defense": 90,
+        "sp_atk": 45,
+        "sp_def": 90,
+        "speed": 80
+      },
+      {
+        "national_number": "509",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/purrloin.png",
+          "large": "https://img.pokemondb.net/artwork/purrloin.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/purrloin.gif"
+        },
+        "name": "Purrloin",
+        "type": [
+          "Dark"
+        ],
+        "total": 281,
+        "hp": 41,
+        "attack": 50,
+        "defense": 37,
+        "sp_atk": 50,
+        "sp_def": 37,
+        "speed": 66
+      },
+      {
+        "national_number": "510",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/liepard.png",
+          "large": "https://img.pokemondb.net/artwork/liepard.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/liepard.gif"
+        },
+        "name": "Liepard",
+        "type": [
+          "Dark"
+        ],
+        "total": 446,
+        "hp": 64,
+        "attack": 88,
+        "defense": 50,
+        "sp_atk": 88,
+        "sp_def": 50,
+        "speed": 106
+      },
+      {
+        "national_number": "511",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pansage.png",
+          "large": "https://img.pokemondb.net/artwork/pansage.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/pansage.gif"
+        },
+        "name": "Pansage",
+        "type": [
+          "Grass"
+        ],
+        "total": 316,
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "sp_atk": 53,
+        "sp_def": 48,
+        "speed": 64
+      },
+      {
+        "national_number": "512",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/simisage.png",
+          "large": "https://img.pokemondb.net/artwork/simisage.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/simisage.gif"
+        },
+        "name": "Simisage",
+        "type": [
+          "Grass"
+        ],
+        "total": 498,
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "sp_atk": 98,
+        "sp_def": 63,
+        "speed": 101
+      },
+      {
+        "national_number": "513",
+        "evolution": null,
+        "sprites": {
+          "normal": "https://img.pokemondb.net/sprites/omega-ruby-alpha-sapphire/dex/normal/pansear.png",
+          "large": "https://img.pokemondb.net/artwork/pansear.jpg",
+          "animated": "https://img.pokemondb.net/sprites/black-white/anim/normal/pansear.gif"
+        },
+        "name": "Pansear",
+        "type": [
+          "Fire"
+        ],
+        "total": 316,
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "sp_atk": 53,
+        "sp_def": 48,
+        "speed": 64
+      }
+    ]
+}
+
+      

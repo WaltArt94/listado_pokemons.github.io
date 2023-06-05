@@ -1,0 +1,8 @@
+1.Intalar Node js, GIT y VSC
+2.React con tyScript https://create-react-app.dev/docs/adding-typescript/
+3.Crear proyecto npx create-react-app "AQUI VA EL NOMBRE SIN COMILLAS" --template typescript
+4.Ejecutar el proyecto npm run start
+
+
+//Links//
+https://unpkg.com/pokemons@1.1.0/pokemons.json
